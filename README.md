@@ -1,6 +1,6 @@
 # ToDoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+Angular 6 code for a todo list. run this along backend code specified in another repo here. refer the problem statement here. http://ng-todolist.s3-website-us-east-1.amazonaws.com
 
 ## Development server
 
