@@ -1,6 +1,7 @@
 # ToDoList
 
-Angular 6 code for a todo list. run this along backend code specified in another repo here. refer the problem statement here. http://ng-todolist.s3-website-us-east-1.amazonaws.com
+Angular 6 code for a todo list. run this along backend code specified in another repo here. refer the problem statement here.
+https://s3-ap-southeast-1.amazonaws.com/edwisor-india-bucket/projects/web/web03/Web030101+-+Real+Time+To+Do+List.pdf
 
 ## Development server
 
